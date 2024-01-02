@@ -19,7 +19,7 @@
 <div align = "left">
     
   [![Oshyma's Github Stats](https://github-readme-stats.vercel.app/api?username=oshyma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github.com/Oshyma/Oshyma/blob/main/wmgif.gif" align = "right" width="450" height="450">
+  <img src="https://github.com/Oshyma/Oshyma/blob/main/wmgif.gif" align = "right" width="400" height="400">
   [![Oshyma_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=oshyma&range=all_time
 )](https://github.com/anuraghazra/github-readme-stats)
 
