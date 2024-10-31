@@ -42,7 +42,7 @@ With expertise in various programming languages and frameworks, I am dedicated t
 
 ## Contacts
   
-- Email : [contact.promethea@gmail.com](mailto:contact.promethea@gmail.com)
+- Email : [contact@prometheacorp.com](mailto:contact.promethea@gmail.com)
 - Discord : [Rejoindre notre Discord](https://discord.gg/eRSdk5YCD5)
 
 
