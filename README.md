@@ -18,6 +18,7 @@ With expertise in various programming languages and frameworks, I am dedicated t
   ![C#](https://skillicons.dev/icons?i=cs) 
   ![Python](https://skillicons.dev/icons?i=py) 
   ![C++](https://skillicons.dev/icons?i=cpp) 
+  ![C](https://skillicons.dev/icons?i=c) 
   ![Haskell](https://skillicons.dev/icons?i=haskell)
 
 - **Frameworks et Libraries :**  
