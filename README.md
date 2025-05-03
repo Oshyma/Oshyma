@@ -5,8 +5,7 @@
 
 # About Me
 
-I am Oshyma, a passionate developer and the founder of Promethea Corp. At Promethea, we specialize in creating custom Discord bots, offering premium solutions tailored for clients who seek powerful tools to enhance their communities. Our mission is to provide innovative and high-performance solutions that meet the unique needs of each client.
-
+I am Oshyma, a passionate developer and the founder of Promethea Corp.
 With expertise in various programming languages and frameworks, I am dedicated to delivering top-notch services that empower users and foster engagement within their communities. My goal is to leverage technology to create seamless experiences and drive success for my clients.
 </div>
 
