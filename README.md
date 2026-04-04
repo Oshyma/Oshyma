@@ -51,6 +51,5 @@ With expertise in various programming languages and frameworks, I am dedicated t
 
 <div align="center">
     
-![Statistiques Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=oshyma&langs_count=8&layout=compact&hide_border=true&bg_color=000000&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)
+![Statistiques Wakatime](https://github-readme-stats.vercel.app/api?username=oshymq)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
