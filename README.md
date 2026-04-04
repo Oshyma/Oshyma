@@ -50,6 +50,5 @@ With expertise in various programming languages and frameworks, I am dedicated t
 ## Wakatime Stats
 
 <div align="center">
-    
-![Statistiques Wakatime](https://github-readme-stats.vercel.app/api?username=oshymq)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
