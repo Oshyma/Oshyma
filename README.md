@@ -75,7 +75,7 @@ A Discord bot that handles end-to-end order management — delivery tickets, a c
 
 ---
 
-### [AscendOs](https://github.com/Oshyma/AscendOs) *(WIP — on hold)*
+### [AscendOs](https://github.com/Oshyma/AscendOs)
 A VS Code extension that turns coding into an RPG. Earn XP as you write code, level up, complete missions, and collect loot — all from your editor's status bar.
 `TypeScript` `VS Code API` `ESBuild`
 
