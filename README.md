@@ -93,6 +93,6 @@ A VS Code extension that turns coding into an RPG. Earn XP as you write code, le
 ---
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=3000&pause=1000&color=F7CE00&center=true&vCenter=true&width=435&lines=Building+things+that+matter%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=F7CE00&center=true&vCenter=true&width=435&lines=Building+things+that+matter%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
