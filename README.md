@@ -85,10 +85,13 @@ A VS Code extension that turns coding into an RPG. Earn XP as you write code, le
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Oshyma&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Oshyma&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Oshyma&show_icons=true&include_all_commits=true&theme=github_dark)
 
 </div>
-
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Oshyma&layout=compact&langs_count=6&theme=github_dark)](https://wakatime.com/@Oshyma)
+</div>
 
 ---
 <div align="center">
