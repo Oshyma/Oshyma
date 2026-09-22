@@ -1,13 +1,17 @@
 <div align="center">
+
 <img src="https://github.com/Oshyma/Oshyma/blob/main/promethea.png" width="800" alt="Promethea Corp" />
 
 # Hey, I'm Oshyma
 
-Founder of **Promethea Corp** — I build tools, bots, and experiences that make communities thrive.  
-Passionate about clean architecture, gamified systems, and turning ideas into real products.
+**Founder of Promethea Corp · Computer Science · Developer**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Promethea-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bF3REtSEq2)
-[![Email](https://img.shields.io/badge/Email-contact.promethea@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.promethea@gmail.com)
+I build software, tools, bots and interactive experiences — usually starting from an idea and figuring out how to turn it into something people can actually use.
+
+I'm interested in a lot of things: backend systems, developer tools, game development, automation, web applications, and increasingly, AI.
+
+[![Discord](https://img.shields.io/badge/Discord-Promethea-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/bF3REtSEq2)
+[![Email](https://img.shields.io/badge/Email-contact.promethea%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact.promethea@gmail.com)
 
 </div>
 
@@ -15,27 +19,47 @@ Passionate about clean architecture, gamified systems, and turning ideas into re
 
 ## About Me
 
-- Founder of **Promethea Corp**, focused on Discord tooling and community automation
-- Building gamified developer experiences (see [AscendOs](#featured-projects))
-- Specialized in Discord bots — moderation, leveling, delivery systems, affiliation programs
-- Always learning — currently exploring AI assistant development, VSCode extension development and SaaS solutions
-- I care about **user experience as much as the code behind it**
+I'm the founder of **Promethea Corp**, a project I'm building around software, products and ideas that I want to bring to life.
+
+I enjoy working across different areas of development rather than sticking to a single stack or type of project. Sometimes that's a web application, a Discord bot, a developer tool, or an AI-related project. Other times, it's something completely different.
+
+What matters most to me is **building things, understanding how they work, and continuously improving them**.
+
+I'm also currently exploring AI assistants and, in particular, how memory and context can be handled over longer periods of time.
+
+---
+
+## What I'm Working On
+
+Currently Working On
+
+A few areas currently taking most of my time:
+
+* Building and experimenting with software products
+* Exploring AI assistants and LLM memory systems
+* Designing backend architecture and infrastructure
+* Working on automation and internal tooling
+* Exploring new ideas around software architecture and developer tools
+* Building the foundations of Promethea Corp
+
+Some of these projects are public, while others are still being developed privately.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Python](https://skillicons.dev/icons?i=py)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
 ![Haskell](https://skillicons.dev/icons?i=haskell)
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)
@@ -43,16 +67,16 @@ Passionate about clean architecture, gamified systems, and turning ideas into re
 ![React](https://skillicons.dev/icons?i=react)
 ![Express](https://skillicons.dev/icons?i=express)
 
-**Game Engines**
+### Game Development
 
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![Unity](https://skillicons.dev/icons?i=unity)
 
-**Web & Tools**
+### Tools
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
